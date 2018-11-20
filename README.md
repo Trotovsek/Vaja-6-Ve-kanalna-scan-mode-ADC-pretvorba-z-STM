@@ -19,3 +19,4 @@ pretvorbe bo 1 Byte, zato ustrezno popravite izbirno polje Data Width?: byte
 d) Kaj pomeni kratica DMA? Direct memory access.
 
 
+Pri k) ni bilo možno izbrati Number of Conversion. potrebno je bilo tudi odadti potenciometer, na katerega smo pricinli žice in ga povezali na ploščo.
